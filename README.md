@@ -14,7 +14,7 @@ Andrew
 
 ## Create a serverblock
 1. Create a file in `/etc/nginx/sites-available/`
-2. Add a serverblock layout
+2. Add a serverblock layout.
 ![Server block](images/serverblock.png)
 3. Create a link to your site using `sudo ln -s /etc/nginx/sites-available/<your_ip> /etc/nginx/sites-enabled`
 4. Test your site
