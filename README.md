@@ -1,7 +1,6 @@
 # 2420_week12_Lab
 
-Liam
-Andrew
+Liam Brooke, Andrew Hull
 
 ## Installing nginx
 ![sudo apt install nginx](images/install.png)
@@ -35,7 +34,7 @@ Andrew
 ![Inbound firewall section](images/firewallinbound.png)
 6. Scroll down and click Create Firewall.
 7. Click on the name of your firewall in the firewall list.
-8. Click Droplets
+8. Click Droplets.
 ![Firewall navigation bar](images/navbarfirewall.png)
 9. Click Add Droplet then search for your droplet name.
 10. Click done and your droplet should be added to the firewall.
